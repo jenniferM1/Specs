@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-mimik Drive empowers developers to discover, connect, and communicate with various heterogeneous devices.
+mimik Drive allows developers to storage with various heterogeneous devices.
                        DESC
 
   s.homepage         = 'https://www.mimik.com'
