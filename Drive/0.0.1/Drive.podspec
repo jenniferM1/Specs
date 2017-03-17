@@ -37,5 +37,6 @@ mimik Drive empowers developers to discover, connect, and communicate with vario
   s.dependency 'GCDWebServer', '~> 3.0'
   s.dependency 'CocoaLumberjack/Swift', '~> 3.0'
   s.dependency 'CryptoSwift', '~> 0.6'
+  s.dependency 'RealmSwift', '~> 2.1'
 
 end
