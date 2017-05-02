@@ -25,7 +25,7 @@ mimik Beam allows developers to beam content among various heterogeneous devices
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Mo Afrasiabi' => 'mo.afrasiabi@mimik.com' }
-  s.source           = { :git => 'https://github.com/mimikpods/MimikBeam.git', :tag => '1.1.4' }
+  s.source           = { :git => 'https://github.com/jenniferM1/MimikBeam.git', :tag => '1.1.4' }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
