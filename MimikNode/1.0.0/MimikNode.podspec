@@ -33,7 +33,7 @@ mimik Node empowers developers to discover, connect, and communicate with variou
   s.vendored_frameworks = 'Frameworks/Node.framework'
 
   s.dependency 'MimikBeam', '~> 1.1.0'
-  s.dependency 'MimikDrive', '~> 1.1.0'
+  s.dependency 'MimikDrive', '~> 1.2.0'
   s.dependency 'MimikEdge', '~> 1.0.0'
 
 end
